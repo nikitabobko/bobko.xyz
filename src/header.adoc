@@ -1,0 +1,28 @@
+:nofooter:
+:idprefix:
+:idseparator: -
+// Drop html suffix in links
+:relfilesuffix:
+:docinfo: shared
+
+[grid=none]
+[frame=none]
+[cols=">,<"]
+|===
+|image:{rootdir}/me.png[120,120]
+.^|
+[big]#Nikita Bobko# +
+[small]#Blog @ bobko.xyz#
+|===
+
+// [.text-center]
+// image:{rootdir}/me.png[120,120]
+
+[.text-center]
+https://bobko.xyz[Blog] --
+xref:{rootdir}/atom.xml[RSS] --
+https://github.com/nikitabobko[GitHub] --
+https://mastodon.social/@bobko[Mastodon] --
+https://twitter.com/nikitabobko[Twitter]
+
+'''

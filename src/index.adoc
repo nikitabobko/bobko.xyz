@@ -1,0 +1,14 @@
+:rootdir: .
+include::./header.adoc[]
+
+Hello, web stranger!
+
+You have encountered my blog where I write about programming.
+
+I work on Kotlin at JetBrains.
+VIM, git, Linux and CLI tools addict.
+Creator of AeroSpace - tiling window manager for macOS.
+
+== 2024
+
+* xref:./blog/shell-if-statement.adoc[Language design: what's wrong with if statement in shell languages]

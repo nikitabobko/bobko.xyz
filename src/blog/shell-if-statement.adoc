@@ -1,0 +1,7 @@
+:rootdir: ..
+include::../header.adoc[]
+include::../blog-attributes.adoc[]
+
+= Language design: what's wrong with if statement in shell languages
+
+boo!
