@@ -1,8 +1,6 @@
 :nofooter:
 :idprefix:
 :idseparator: -
-// Drop html suffix in links
-:relfilesuffix:
 :docinfo: shared
 
 [grid=none]
@@ -15,14 +13,11 @@
 [small]#Blog @ bobko.xyz#
 |===
 
-// [.text-center]
-// image:{rootdir}/me.png[120,120]
-
 [.text-center]
-https://bobko.xyz[Blog] --
-xref:{rootdir}/atom.xml[RSS] --
-https://github.com/nikitabobko[GitHub] --
-https://mastodon.social/@bobko[Mastodon] --
+xref:{rootdir}[Blog] |
+xref:{rootdir}/rss.xml[RSS] |
+https://github.com/nikitabobko[GitHub] |
+https://mastodon.social/@bobko[Mastodon] |
 https://twitter.com/nikitabobko[Twitter]
 
 '''
