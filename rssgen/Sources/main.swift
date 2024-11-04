@@ -11,6 +11,7 @@ let root = "https://bobko.xyz"
 // Verificator https://validator.w3.org/feed/
 var rss = RSS(
     .title("Nikita Bobko Blog @ bobko.xyz"),
+    .description("Nikita Bobko Blog @ bobko.xyz"),
     .link(root),
     .atomLink("\(root)/rss.xml"),
     .lastBuildDate(.now),
