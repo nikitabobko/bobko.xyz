@@ -1,5 +1,6 @@
 /Gemfile.lock
 /.build
+/.publish
 /rssgen/.build
 /venv
 .DS_Store
