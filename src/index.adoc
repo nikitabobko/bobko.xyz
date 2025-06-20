@@ -5,14 +5,11 @@ include::./header.adoc[]
 
 Hello, web stranger!
 
-You have encountered my blog where I write about programming.
-
 I work on Kotlin at JetBrains.
-VIM, git, Linux and CLI tools addict.
-Creator of AeroSpace - tiling window manager for macOS.
+You may also know me as the creator of https://github.com/nikitabobko/AeroSpace[AeroSpace] - tiling window manager for macOS.
 
-== 2024
+== 2025
 
-WIP
+* 23 May 2025. https://youtu.be/Jyj4kdK8a6o[KotlinConf 2025. Swift concurrency for curious Kotliners]
 
 // * xref:./blog/0001-shell-if-statement.adoc[Language design: what's wrong with if statement in shell languages]
