@@ -21,7 +21,7 @@ struct Main {
             .lastBuildDate(.now),
             .language(.english),
             .item(
-                .title("KotlinConf 2025. Swift concurrency for curious Kotliners"),
+                .title("https://bobko.xyz/ KotlinConf 2025. Swift concurrency for curious Kotliners"),
                 .link("https://youtu.be/Jyj4kdK8a6o"),
                 .guid("https://youtu.be/Jyj4kdK8a6o"),
                 .pubDate(try Date.init("2025-06-20T21:28:00+02:00", strategy: .iso8601))
