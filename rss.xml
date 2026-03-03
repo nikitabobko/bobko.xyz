@@ -5,13 +5,19 @@
     <description>Nikita Bobko Blog @ bobko.xyz</description>
     <link>https://bobko.xyz</link>
     <atom:link href="https://bobko.xyz/rss.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Jun 2025 21:37:53 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 3 Mar 2026 13:01:29 +0100</lastBuildDate>
     <language>en</language>
     <item>
-      <title>https://bobko.xyz/ KotlinConf 2025. Swift concurrency for curious Kotliners</title>
+      <title>https://bobko.xyz KotlinConf 2025. Swift concurrency for curious Kotliners</title>
       <link>https://youtu.be/Jyj4kdK8a6o</link>
       <guid>https://youtu.be/Jyj4kdK8a6o</guid>
       <pubDate>Fri, 20 Jun 2025 21:28:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>https://bobko.xyz [RU] Podlodka #466 – Window Managers</title>
+      <link>https://podlodka.io/466</link>
+      <guid>34233b80-69f4-48fe-9feb-a8b4e07afb00</guid>
+      <pubDate>Tue, 3 Mar 2026 12:50:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
