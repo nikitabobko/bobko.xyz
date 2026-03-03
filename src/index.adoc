@@ -8,6 +8,10 @@ Hello, web stranger!
 I work on Kotlin at JetBrains.
 You may also know me as the creator of https://github.com/nikitabobko/AeroSpace[AeroSpace] - tiling window manager for macOS.
 
+== 2026
+
+* 02 Mar 2026. [RU] Podlodka #466 – Window Managers. https://podlodka.io/466[Podlodka site], https://pca.st/episode/e2d079f2-8100-478f-88e2-9e35ef124357[Pocketcasts], https://castbox.fm/vi/912773694[Castbox], https://www.youtube.com/watch?v=2zi3E3-ibCI[YouTube]
+
 == 2025
 
 * 23 May 2025. https://youtu.be/Jyj4kdK8a6o[KotlinConf 2025. Swift concurrency for curious Kotliners]

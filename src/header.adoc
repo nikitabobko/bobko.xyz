@@ -10,11 +10,11 @@
 |image:{rootdir}/me.png[120,120]
 .^|
 [big]#Nikita Bobko# +
-[small]#Blog @ bobko.xyz#
+[small]#bobko.xyz#
 |===
 
 [.text-center]
-xref:{rootdir}[Blog] |
+xref:{rootdir}[Home] |
 xref:{rootdir}/rss.xml[RSS] |
 https://github.com/nikitabobko[GitHub] |
 https://mastodon.social/@bobko[Mastodon] |

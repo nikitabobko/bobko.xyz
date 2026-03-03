@@ -21,10 +21,16 @@ struct Main {
             .lastBuildDate(.now),
             .language(.english),
             .item(
-                .title("https://bobko.xyz/ KotlinConf 2025. Swift concurrency for curious Kotliners"),
+                .title("https://bobko.xyz KotlinConf 2025. Swift concurrency for curious Kotliners"),
                 .link("https://youtu.be/Jyj4kdK8a6o"),
                 .guid("https://youtu.be/Jyj4kdK8a6o"),
                 .pubDate(try Date.init("2025-06-20T21:28:00+02:00", strategy: .iso8601))
+            ),
+            .item(
+                .title("https://bobko.xyz [RU] Podlodka #466 – Window Managers"),
+                .link("https://podlodka.io/466"),
+                .guid("34233b80-69f4-48fe-9feb-a8b4e07afb00"),
+                .pubDate(try Date.init("2026-03-03T12:50:00+01:00", strategy: .iso8601))
             ),
         )
 
