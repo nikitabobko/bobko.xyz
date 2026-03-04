@@ -29,7 +29,7 @@ struct Main {
             .item(
                 .title("https://bobko.xyz [RU] Podlodka #466 – Window Managers"),
                 .link("https://podlodka.io/466"),
-                .guid("34233b80-69f4-48fe-9feb-a8b4e07afb00"),
+                .guid("34233b80-69f4-48fe-9feb-a8b4e07afb00", .isPermaLink(false)),
                 .pubDate(try Date.init("2026-03-03T12:50:00+01:00", strategy: .iso8601))
             ),
         )
