@@ -1,4 +1,4 @@
-# Nikita Bobko Blog @ bobko.xyz
+# Nikita Bobko @ bobko.xyz
 
 Source code for static site bobko.xyz
 

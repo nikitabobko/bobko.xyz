@@ -14,8 +14,8 @@ struct Main {
     static func main() throws {
         // Verificator https://validator.w3.org/feed/
         let rss = RSS(
-            .title("Nikita Bobko Blog @ bobko.xyz"),
-            .description("Nikita Bobko Blog @ bobko.xyz"),
+            .title("Nikita Bobko @ bobko.xyz"),
+            .description("Nikita Bobko @ bobko.xyz"),
             .link(root),
             .atomLink("\(root)/rss.xml"),
             .lastBuildDate(.now),
