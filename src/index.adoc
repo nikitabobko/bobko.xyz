@@ -3,10 +3,9 @@
 :rootdir: .
 include::./header.adoc[]
 
-Hello, web stranger!
+Hello, web stranger! I am Nikita - a Software Engineer.
 
-I work on Kotlin at JetBrains.
-You may also know me as the creator of https://github.com/nikitabobko/AeroSpace[AeroSpace] - tiling window manager for macOS.
+Creator of https://github.com/nikitabobko/AeroSpace[AeroSpace] - tiling window manager for macOS. ex-Kotlin, ex-JetBrains.
 
 == 2026
 
