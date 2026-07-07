@@ -16,8 +16,8 @@
 [.text-center]
 xref:{rootdir}[Home] |
 xref:{rootdir}/rss.xml[RSS] |
-https://github.com/nikitabobko[GitHub] |
-https://mastodon.social/@bobko[Mastodon] |
-https://twitter.com/nikitabobko[Twitter]
+pass:[<a rel="me" href="https://github.com/nikitabobko">GitHub</a>] |
+pass:[<a rel="me" href="https://mastodon.social/@bobko">Mastodon</a>] |
+pass:[<a rel="me" href="https://twitter.com/nikitabobko">Twitter</a>]
 
 '''
